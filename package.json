@@ -1,0 +1,15 @@
+{
+  "name": "mapmaker",
+  "version": "1.0.0",
+  "description": "A map maker game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/03brando/MapMaker.git"
+  },
+  "keywords": [],
+  "author": "Brandon Kandola",
+  "license": "UNLICENSED"
+}
